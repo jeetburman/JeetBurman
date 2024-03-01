@@ -1,8 +1,7 @@
-![MasterHead](https://visme.co/blog/wp-content/uploads/2017/04/Summer-Vibes-youtube-banner-template-channel-art-music-playlist-beach-songs-blog.png)
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Jeet Burman</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u">via GIPHY</a></p>
-
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
 - 🌱 I’m currently learning **C with DSA along with Web-Dev**
 
 - 👨‍💻 All of my projects are available at [https://jeetburman.github.io/Portfolio/](https://jeetburman.github.io/Portfolio/)
