@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **jeetburman95@gmail.com**
 
-- ⚡ Fun fact **I'm an Nerd-jock**
+- ⚡ Fun fact **I'm a Nerd-jock**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
